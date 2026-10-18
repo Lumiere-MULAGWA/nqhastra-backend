@@ -1,0 +1,4837 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "label": {
+        "fr": "Tout le stock",
+        "en": "All stock"
+      }
+    },
+    {
+      "id": "gratings",
+      "label": {
+        "fr": "Caillebotis & profils",
+        "en": "Gratings & profiles"
+      }
+    },
+    {
+      "id": "filtration",
+      "label": {
+        "fr": "Filtration moteur",
+        "en": "Engine filtration"
+      }
+    },
+    {
+      "id": "fuel",
+      "label": {
+        "fr": "Systèmes de carburant",
+        "en": "Fuel systems"
+      }
+    },
+    {
+      "id": "mechanical",
+      "label": {
+        "fr": "Pièces mécaniques",
+        "en": "Mechanical parts"
+      }
+    },
+    {
+      "id": "fasteners",
+      "label": {
+        "fr": "Boulonnerie",
+        "en": "Fasteners"
+      }
+    },
+    {
+      "id": "consumables",
+      "label": {
+        "fr": "Consommables",
+        "en": "Consumables"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "steel-gratings",
+      "category": "gratings",
+      "name": {
+        "fr": "Caillebotis métalliques",
+        "en": "Steel gratings"
+      },
+      "description": {
+        "fr": "Caillebotis industriels toutes tailles pour passerelles, plateformes et zones de circulation en site minier.",
+        "en": "Industrial gratings in all sizes for walkways, platforms, and mine traffic areas."
+      },
+      "details": {
+        "fr": "Caillebotis pressés ou soudés, livrés en panneaux standards ou coupés à dimension. Finition galvanisée à chaud pour les environnements corrosifs du Katanga, ou brut pour ateliers de chaudronnerie.",
+        "en": "Pressed or welded gratings, supplied as standard panels or cut to size. Hot-dip galvanized finish for corrosive Katanga environments, or mill finish for boiler shops."
+      },
+      "applications": [
+        {
+          "fr": "Passerelles et plateformes d’usine",
+          "en": "Plant walkways and platforms"
+        },
+        {
+          "fr": "Couvercles de caniveaux et fosses",
+          "en": "Trench and pit covers"
+        },
+        {
+          "fr": "Escaliers et paliers industriels",
+          "en": "Industrial stairs and landings"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Toutes tailles",
+          "en": "All sizes"
+        },
+        {
+          "fr": "Acier",
+          "en": "Steel"
+        }
+      ],
+      "models": [
+        {
+          "id": "pressed-galv",
+          "name": {
+            "fr": "Pressé galvanisé",
+            "en": "Pressed galvanized"
+          },
+          "description": {
+            "fr": "Barreaux pressés, maille antidérapante, galvanisation à chaud.",
+            "en": "Pressed bars, anti-slip mesh, hot-dip galvanized."
+          },
+          "variants": [
+            {
+              "sku": "NQA-GR-P-2530",
+              "name": {
+                "fr": "25 × 3 mm / 30 × 30",
+                "en": "25 × 3 mm / 30 × 30"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "25 × 3 mm",
+                    "en": "25 × 3 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "30 × 30 mm",
+                    "en": "30 × 30 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Galvanisé",
+                    "en": "Galvanized"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GR-P-3030",
+              "name": {
+                "fr": "30 × 3 mm / 30 × 30",
+                "en": "30 × 3 mm / 30 × 30"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "30 × 3 mm",
+                    "en": "30 × 3 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "30 × 30 mm",
+                    "en": "30 × 30 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Galvanisé",
+                    "en": "Galvanized"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GR-P-4040",
+              "name": {
+                "fr": "40 × 4 mm / 40 × 40",
+                "en": "40 × 4 mm / 40 × 40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "40 × 4 mm",
+                    "en": "40 × 4 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "40 × 40 mm",
+                    "en": "40 × 40 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Galvanisé",
+                    "en": "Galvanized"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "welded-heavy",
+          "name": {
+            "fr": "Soudé haute charge",
+            "en": "Welded heavy duty"
+          },
+          "description": {
+            "fr": "Caillebotis soudés pour charges d’engins et zones de circulation lourde.",
+            "en": "Welded gratings for equipment loads and heavy traffic areas."
+          },
+          "variants": [
+            {
+              "sku": "NQA-GR-W-3050",
+              "name": {
+                "fr": "30 × 5 mm / 40 × 40",
+                "en": "30 × 5 mm / 40 × 40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "30 × 5 mm",
+                    "en": "30 × 5 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "40 × 40 mm",
+                    "en": "40 × 40 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Brut",
+                    "en": "Mill finish"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GR-W-4050",
+              "name": {
+                "fr": "40 × 5 mm / 40 × 40",
+                "en": "40 × 5 mm / 40 × 40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "40 × 5 mm",
+                    "en": "40 × 5 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "40 × 40 mm",
+                    "en": "40 × 40 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Galvanisé",
+                    "en": "Galvanized"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GR-W-5060",
+              "name": {
+                "fr": "50 × 6 mm / 40 × 100",
+                "en": "50 × 6 mm / 40 × 100"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Barreau",
+                    "en": "Bar"
+                  },
+                  "value": {
+                    "fr": "50 × 6 mm",
+                    "en": "50 × 6 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Maille",
+                    "en": "Mesh"
+                  },
+                  "value": {
+                    "fr": "40 × 100 mm",
+                    "en": "40 × 100 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finition",
+                    "en": "Finish"
+                  },
+                  "value": {
+                    "fr": "Galvanisé",
+                    "en": "Galvanized"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tubing-profiles",
+      "category": "gratings",
+      "name": {
+        "fr": "Profilés et tubes",
+        "en": "Tubing profiles"
+      },
+      "description": {
+        "fr": "Gamme de profils de tubes pour structures, chaudronnerie et assemblages mécaniques.",
+        "en": "Range of tubing profiles for structures, boiler making, and mechanical assemblies."
+      },
+      "details": {
+        "fr": "Tubes ronds, carrés et rectangulaires en acier doux ou inox. Longueurs standard 6 m, autres coupes sur demande. Stocks Lubumbashi pour les profils courants.",
+        "en": "Round, square, and rectangular tubes in mild or stainless steel. Standard 6 m lengths, other cuts on request. Common profiles stocked in Lubumbashi."
+      },
+      "applications": [
+        {
+          "fr": "Charpentes et garde-corps",
+          "en": "Frames and handrails"
+        },
+        {
+          "fr": "Chaudronnerie et supports",
+          "en": "Boiler making and supports"
+        },
+        {
+          "fr": "Réseaux d’eau et d’air",
+          "en": "Water and air lines"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Profils variés",
+          "en": "Various profiles"
+        },
+        {
+          "fr": "Stock entrepôt",
+          "en": "Warehouse stock"
+        }
+      ],
+      "models": [
+        {
+          "id": "mild-round",
+          "name": {
+            "fr": "Tubes ronds acier doux",
+            "en": "Mild steel round pipe"
+          },
+          "description": {
+            "fr": "Soudés, SCH40, DN25 à DN150.",
+            "en": "Welded, SCH40, DN25 to DN150."
+          },
+          "variants": [
+            {
+              "sku": "NQA-TB-MS-DN25",
+              "name": {
+                "fr": "DN25 SCH40",
+                "en": "DN25 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "25",
+                    "en": "25"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "6 m",
+                    "en": "6 m"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-MS-DN50",
+              "name": {
+                "fr": "DN50 SCH40",
+                "en": "DN50 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "50",
+                    "en": "50"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "6 m",
+                    "en": "6 m"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-MS-DN100",
+              "name": {
+                "fr": "DN100 SCH40",
+                "en": "DN100 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "100",
+                    "en": "100"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "6 m",
+                    "en": "6 m"
+                  }
+                }
+              ],
+              "stock": "limited"
+            },
+            {
+              "sku": "NQA-TB-MS-DN150",
+              "name": {
+                "fr": "DN150 SCH40",
+                "en": "DN150 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "150",
+                    "en": "150"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "6 m",
+                    "en": "6 m"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        },
+        {
+          "id": "square",
+          "name": {
+            "fr": "Profilés carrés",
+            "en": "Square hollow sections"
+          },
+          "description": {
+            "fr": "Tubes carrés pour structures et ateliers.",
+            "en": "Square tubes for structures and workshops."
+          },
+          "variants": [
+            {
+              "sku": "NQA-TB-SQ-4040",
+              "name": {
+                "fr": "40 × 40 × 3 mm",
+                "en": "40 × 40 × 3 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Section",
+                    "en": "Section"
+                  },
+                  "value": {
+                    "fr": "40 × 40 mm",
+                    "en": "40 × 40 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Wall"
+                  },
+                  "value": {
+                    "fr": "3 mm",
+                    "en": "3 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-SQ-5050",
+              "name": {
+                "fr": "50 × 50 × 4 mm",
+                "en": "50 × 50 × 4 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Section",
+                    "en": "Section"
+                  },
+                  "value": {
+                    "fr": "50 × 50 mm",
+                    "en": "50 × 50 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Wall"
+                  },
+                  "value": {
+                    "fr": "4 mm",
+                    "en": "4 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-SQ-8080",
+              "name": {
+                "fr": "80 × 80 × 5 mm",
+                "en": "80 × 80 × 5 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Section",
+                    "en": "Section"
+                  },
+                  "value": {
+                    "fr": "80 × 80 mm",
+                    "en": "80 × 80 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Wall"
+                  },
+                  "value": {
+                    "fr": "5 mm",
+                    "en": "5 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "ss-pipe",
+          "name": {
+            "fr": "Tubes inox 304 / 316L",
+            "en": "Stainless pipe 304 / 316L"
+          },
+          "description": {
+            "fr": "Soudés ou sans soudure, SCH40 / SCH80.",
+            "en": "Welded or seamless, SCH40 / SCH80."
+          },
+          "variants": [
+            {
+              "sku": "NQA-TB-SS304-DN40",
+              "name": {
+                "fr": "304 DN40 SCH40",
+                "en": "304 DN40 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "304",
+                    "en": "304"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "40",
+                    "en": "40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-SS316-DN50",
+              "name": {
+                "fr": "316L DN50 SCH40",
+                "en": "316L DN50 SCH40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "316L",
+                    "en": "316L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "50",
+                    "en": "50"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH40",
+                    "en": "SCH40"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TB-SS316-DN80",
+              "name": {
+                "fr": "316L DN80 SCH80",
+                "en": "316L DN80 SCH80"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "316L",
+                    "en": "316L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "80",
+                    "en": "80"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Schedule"
+                  },
+                  "value": {
+                    "fr": "SCH80",
+                    "en": "SCH80"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oil-filters",
+      "category": "filtration",
+      "name": {
+        "fr": "Filtres à huile",
+        "en": "Oil filters"
+      },
+      "description": {
+        "fr": "Filtres à huile pour engins miniers et équipements lourds, adaptés aux cycles d’entretien intensifs.",
+        "en": "Oil filters for mining equipment and heavy machinery, suited to intensive service intervals."
+      },
+      "details": {
+        "fr": "Éléments spin-on et cartouches pour moteurs diesel lourds. Références NQA compatibles avec les parcs d’engins les plus courants de la région.",
+        "en": "Spin-on elements and cartridges for heavy diesel engines. NQA references compatible with the most common regional equipment fleets."
+      },
+      "applications": [
+        {
+          "fr": "Moteurs diesel d’engins miniers",
+          "en": "Mining equipment diesel engines"
+        },
+        {
+          "fr": "Groupes électrogènes",
+          "en": "Generator sets"
+        },
+        {
+          "fr": "Ateliers de maintenance",
+          "en": "Maintenance workshops"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Filtration moteur",
+          "en": "Engine filtration"
+        }
+      ],
+      "models": [
+        {
+          "id": "spin-on",
+          "name": {
+            "fr": "Spin-on standard",
+            "en": "Standard spin-on"
+          },
+          "description": {
+            "fr": "Boîtiers filetés pour entretien courant.",
+            "en": "Threaded canisters for routine service."
+          },
+          "variants": [
+            {
+              "sku": "NQA-OF-S-210",
+              "name": {
+                "fr": "NQA-OF-210",
+                "en": "NQA-OF-210"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Spin-on",
+                    "en": "Spin-on"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Filetage",
+                    "en": "Thread"
+                  },
+                  "value": {
+                    "fr": "M20 × 1,5",
+                    "en": "M20 × 1.5"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Hauteur",
+                    "en": "Height"
+                  },
+                  "value": {
+                    "fr": "140 mm",
+                    "en": "140 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-OF-S-320",
+              "name": {
+                "fr": "NQA-OF-320",
+                "en": "NQA-OF-320"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Spin-on",
+                    "en": "Spin-on"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Filetage",
+                    "en": "Thread"
+                  },
+                  "value": {
+                    "fr": "1-12 UNF",
+                    "en": "1-12 UNF"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Hauteur",
+                    "en": "Height"
+                  },
+                  "value": {
+                    "fr": "210 mm",
+                    "en": "210 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-OF-S-450",
+              "name": {
+                "fr": "NQA-OF-450",
+                "en": "NQA-OF-450"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Spin-on",
+                    "en": "Spin-on"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Filetage",
+                    "en": "Thread"
+                  },
+                  "value": {
+                    "fr": "1 1/8-16 UN",
+                    "en": "1 1/8-16 UN"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Hauteur",
+                    "en": "Height"
+                  },
+                  "value": {
+                    "fr": "250 mm",
+                    "en": "250 mm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "heavy-duty",
+          "name": {
+            "fr": "Cartouche heavy duty",
+            "en": "Heavy-duty cartridge"
+          },
+          "description": {
+            "fr": "Cartouches haute capacité pour cycles longs.",
+            "en": "High-capacity cartridges for long intervals."
+          },
+          "variants": [
+            {
+              "sku": "NQA-OF-C-HD1",
+              "name": {
+                "fr": "Cartouche HD-1",
+                "en": "Cartridge HD-1"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Cartouche",
+                    "en": "Cartridge"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "15 µm",
+                    "en": "15 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-OF-C-HD2",
+              "name": {
+                "fr": "Cartouche HD-2",
+                "en": "Cartridge HD-2"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Cartouche",
+                    "en": "Cartridge"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "10 µm",
+                    "en": "10 µm"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "air-filters",
+      "category": "filtration",
+      "name": {
+        "fr": "Filtres à air",
+        "en": "Air filters"
+      },
+      "description": {
+        "fr": "Filtres à air pour environnements poussiéreux, y compris préfiltres et éléments de remplacement.",
+        "en": "Air filters for dusty environments, including pre-cleaners and replacement elements."
+      },
+      "details": {
+        "fr": "Éléments primaire et sécurité pour prises d’air d’engins. Médias haute poussière adaptés aux pistes et carrières.",
+        "en": "Primary and safety elements for equipment air intakes. High-dust media suited to haul roads and pits."
+      },
+      "applications": [
+        {
+          "fr": "Chargeuses et dumpers",
+          "en": "Loaders and haul trucks"
+        },
+        {
+          "fr": "Compresseurs et groupes",
+          "en": "Compressors and gensets"
+        },
+        {
+          "fr": "Véhicules de service mine",
+          "en": "Mine service vehicles"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Environnement minier",
+          "en": "Mine environment"
+        }
+      ],
+      "models": [
+        {
+          "id": "primary",
+          "name": {
+            "fr": "Élément primaire",
+            "en": "Primary element"
+          },
+          "description": {
+            "fr": "Filtre principal à haut débit.",
+            "en": "High-flow main filter."
+          },
+          "variants": [
+            {
+              "sku": "NQA-AF-P-14",
+              "name": {
+                "fr": "Primaire Ø 140",
+                "en": "Primary Ø 140"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Rôle",
+                    "en": "Role"
+                  },
+                  "value": {
+                    "fr": "Primaire",
+                    "en": "Primary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "140 mm",
+                    "en": "140 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-AF-P-18",
+              "name": {
+                "fr": "Primaire Ø 180",
+                "en": "Primary Ø 180"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Rôle",
+                    "en": "Role"
+                  },
+                  "value": {
+                    "fr": "Primaire",
+                    "en": "Primary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "180 mm",
+                    "en": "180 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-AF-P-24",
+              "name": {
+                "fr": "Primaire Ø 240",
+                "en": "Primary Ø 240"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Rôle",
+                    "en": "Role"
+                  },
+                  "value": {
+                    "fr": "Primaire",
+                    "en": "Primary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "240 mm",
+                    "en": "240 mm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "safety",
+          "name": {
+            "fr": "Élément sécurité",
+            "en": "Safety element"
+          },
+          "description": {
+            "fr": "Second étage en cas de rupture du primaire.",
+            "en": "Second stage if the primary fails."
+          },
+          "variants": [
+            {
+              "sku": "NQA-AF-S-14",
+              "name": {
+                "fr": "Sécurité Ø 140",
+                "en": "Safety Ø 140"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Rôle",
+                    "en": "Role"
+                  },
+                  "value": {
+                    "fr": "Sécurité",
+                    "en": "Safety"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "140 mm",
+                    "en": "140 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-AF-S-18",
+              "name": {
+                "fr": "Sécurité Ø 180",
+                "en": "Safety Ø 180"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Rôle",
+                    "en": "Role"
+                  },
+                  "value": {
+                    "fr": "Sécurité",
+                    "en": "Safety"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "180 mm",
+                    "en": "180 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuel-filters",
+      "category": "filtration",
+      "name": {
+        "fr": "Filtres à carburant",
+        "en": "Fuel filters"
+      },
+      "description": {
+        "fr": "Filtres à carburant et séparateurs pour protéger pompes, injecteurs et circuits d’alimentation.",
+        "en": "Fuel filters and separators to protect pumps, injectors, and supply circuits."
+      },
+      "details": {
+        "fr": "Filtres primaire, secondaire et séparateurs eau/carburant pour diesel contaminé. Indispensables en logistique régionale.",
+        "en": "Primary, secondary, and water/fuel separators for contaminated diesel. Essential on regional supply chains."
+      },
+      "applications": [
+        {
+          "fr": "Circuits d’injection diesel",
+          "en": "Diesel injection circuits"
+        },
+        {
+          "fr": "Cuves et pompes de transfert",
+          "en": "Tanks and transfer pumps"
+        },
+        {
+          "fr": "Maintenance injecteurs",
+          "en": "Injector maintenance"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Séparateurs",
+          "en": "Separators"
+        }
+      ],
+      "models": [
+        {
+          "id": "primary-fuel",
+          "name": {
+            "fr": "Primaire / séparateur",
+            "en": "Primary / separator"
+          },
+          "description": {
+            "fr": "Retrait d’eau et de particules grossières.",
+            "en": "Removes water and coarse particles."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FF-P-10",
+              "name": {
+                "fr": "Séparateur 10 µm",
+                "en": "Separator 10 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Étage",
+                    "en": "Stage"
+                  },
+                  "value": {
+                    "fr": "Primaire",
+                    "en": "Primary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "10 µm",
+                    "en": "10 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FF-P-30",
+              "name": {
+                "fr": "Séparateur 30 µm",
+                "en": "Separator 30 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Étage",
+                    "en": "Stage"
+                  },
+                  "value": {
+                    "fr": "Primaire",
+                    "en": "Primary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "30 µm",
+                    "en": "30 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "secondary-fuel",
+          "name": {
+            "fr": "Secondaire fin",
+            "en": "Fine secondary"
+          },
+          "description": {
+            "fr": "Protection injecteurs et pompes HEUI.",
+            "en": "Protects injectors and HEUI pumps."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FF-S-02",
+              "name": {
+                "fr": "Secondaire 2 µm",
+                "en": "Secondary 2 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Étage",
+                    "en": "Stage"
+                  },
+                  "value": {
+                    "fr": "Secondaire",
+                    "en": "Secondary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "2 µm",
+                    "en": "2 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FF-S-05",
+              "name": {
+                "fr": "Secondaire 5 µm",
+                "en": "Secondary 5 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Étage",
+                    "en": "Stage"
+                  },
+                  "value": {
+                    "fr": "Secondaire",
+                    "en": "Secondary"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "5 µm",
+                    "en": "5 µm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hydraulic-filters",
+      "category": "filtration",
+      "name": {
+        "fr": "Filtres hydrauliques",
+        "en": "Hydraulic filters"
+      },
+      "description": {
+        "fr": "Éléments filtrants hydrauliques pour circuits haute pression et systèmes de transmission.",
+        "en": "Hydraulic filter elements for high-pressure circuits and powertrain systems."
+      },
+      "details": {
+        "fr": "Retour, pression et transmission : éléments interchangeables pour pelles, chargeuses et presses.",
+        "en": "Return, pressure, and powertrain: interchangeable elements for excavators, loaders, and presses."
+      },
+      "applications": [
+        {
+          "fr": "Circuits hydrauliques d’engins",
+          "en": "Equipment hydraulic circuits"
+        },
+        {
+          "fr": "Transmissions powertrain",
+          "en": "Powertrain transmissions"
+        },
+        {
+          "fr": "Unités hydrauliques d’atelier",
+          "en": "Workshop hydraulic power packs"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Hydraulique",
+          "en": "Hydraulic"
+        },
+        {
+          "fr": "Transmission",
+          "en": "Powertrain"
+        }
+      ],
+      "models": [
+        {
+          "id": "return",
+          "name": {
+            "fr": "Retour réservoir",
+            "en": "Tank return"
+          },
+          "description": {
+            "fr": "Cartouches de retour 10 et 25 µm.",
+            "en": "Return cartridges at 10 and 25 µm."
+          },
+          "variants": [
+            {
+              "sku": "NQA-HF-R-10",
+              "name": {
+                "fr": "Retour 10 µm",
+                "en": "Return 10 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Ligne",
+                    "en": "Line"
+                  },
+                  "value": {
+                    "fr": "Retour",
+                    "en": "Return"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "10 µm",
+                    "en": "10 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-HF-R-25",
+              "name": {
+                "fr": "Retour 25 µm",
+                "en": "Return 25 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Ligne",
+                    "en": "Line"
+                  },
+                  "value": {
+                    "fr": "Retour",
+                    "en": "Return"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "25 µm",
+                    "en": "25 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "pressure",
+          "name": {
+            "fr": "Haute pression",
+            "en": "High pressure"
+          },
+          "description": {
+            "fr": "Éléments 210–350 bar.",
+            "en": "Elements for 210–350 bar."
+          },
+          "variants": [
+            {
+              "sku": "NQA-HF-P-210",
+              "name": {
+                "fr": "HP 210 bar / 10 µm",
+                "en": "HP 210 bar / 10 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Pression",
+                    "en": "Pressure"
+                  },
+                  "value": {
+                    "fr": "210 bar",
+                    "en": "210 bar"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "10 µm",
+                    "en": "10 µm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-HF-P-350",
+              "name": {
+                "fr": "HP 350 bar / 5 µm",
+                "en": "HP 350 bar / 5 µm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Pression",
+                    "en": "Pressure"
+                  },
+                  "value": {
+                    "fr": "350 bar",
+                    "en": "350 bar"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Finesse",
+                    "en": "Rating"
+                  },
+                  "value": {
+                    "fr": "5 µm",
+                    "en": "5 µm"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "filter-indicators",
+      "category": "filtration",
+      "name": {
+        "fr": "Indicateurs, crépines et préfiltres",
+        "en": "Indicators, strainers and pre-cleaners"
+      },
+      "description": {
+        "fr": "Indicateurs de service, séparateurs, crépines et préfiltres pour le suivi et la protection des circuits.",
+        "en": "Service indicators, separators, strainers, and pre-cleaners for circuit protection and monitoring."
+      },
+      "details": {
+        "fr": "Accessoires de filtration : voyants de colmatage, crépines d’aspiration et préfiltres cyclone.",
+        "en": "Filtration accessories: clogging gauges, suction strainers, and cyclone pre-cleaners."
+      },
+      "applications": [
+        {
+          "fr": "Suivi d’entretien filtres",
+          "en": "Filter service monitoring"
+        },
+        {
+          "fr": "Aspiration réservoirs",
+          "en": "Tank suction"
+        },
+        {
+          "fr": "Prises d’air poussiéreuses",
+          "en": "Dusty air intakes"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Indicateurs de service",
+          "en": "Service indicators"
+        }
+      ],
+      "models": [
+        {
+          "id": "indicators",
+          "name": {
+            "fr": "Indicateurs de colmatage",
+            "en": "Clogging indicators"
+          },
+          "description": {
+            "fr": "Visuels ou électriques.",
+            "en": "Visual or electrical."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FI-V-1",
+              "name": {
+                "fr": "Voyant visuel",
+                "en": "Visual gauge"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Visuel",
+                    "en": "Visual"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Montage",
+                    "en": "Mount"
+                  },
+                  "value": {
+                    "fr": "1/8 NPT",
+                    "en": "1/8 NPT"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FI-E-1",
+              "name": {
+                "fr": "Contact électrique",
+                "en": "Electrical switch"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Électrique",
+                    "en": "Electrical"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Seuil",
+                    "en": "Trip"
+                  },
+                  "value": {
+                    "fr": "1,5 bar",
+                    "en": "1.5 bar"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "strainers",
+          "name": {
+            "fr": "Crépines et préfiltres",
+            "en": "Strainers and pre-cleaners"
+          },
+          "description": {
+            "fr": "Protection amont des pompes et filtres.",
+            "en": "Upstream protection for pumps and filters."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FI-ST-50",
+              "name": {
+                "fr": "Crépine DN50",
+                "en": "Strainer DN50"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Crépine",
+                    "en": "Strainer"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "50",
+                    "en": "50"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FI-PC-180",
+              "name": {
+                "fr": "Préfiltre cyclone 180",
+                "en": "Cyclone pre-cleaner 180"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Préfiltre",
+                    "en": "Pre-cleaner"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Taille",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "180",
+                    "en": "180"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuel-pumps",
+      "category": "fuel",
+      "name": {
+        "fr": "Pompes d’alimentation",
+        "en": "Fuel pumps"
+      },
+      "description": {
+        "fr": "Pompes d’alimentation carburant pour moteurs industriels et flottes d’engins de chantier.",
+        "en": "Fuel supply pumps for industrial engines and heavy equipment fleets."
+      },
+      "details": {
+        "fr": "Pompes électriques 12/24 V et mécaniques pour transfert et alimentation moteur. Joints adaptés au diesel local.",
+        "en": "12/24 V electric and mechanical pumps for transfer and engine supply. Seals suited to local diesel."
+      },
+      "applications": [
+        {
+          "fr": "Alimentation moteur diesel",
+          "en": "Diesel engine supply"
+        },
+        {
+          "fr": "Transfert cuve / fût",
+          "en": "Tank / drum transfer"
+        },
+        {
+          "fr": "Remplacement sur parc minier",
+          "en": "Mining fleet replacement"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Systèmes de carburant",
+          "en": "Fuel systems"
+        }
+      ],
+      "models": [
+        {
+          "id": "electric",
+          "name": {
+            "fr": "Électrique 12 / 24 V",
+            "en": "Electric 12 / 24 V"
+          },
+          "description": {
+            "fr": "Pompes à palettes ou à engrenages.",
+            "en": "Vane or gear pumps."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FP-E-12",
+              "name": {
+                "fr": "12 V / 120 L/h",
+                "en": "12 V / 120 L/h"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Tension",
+                    "en": "Voltage"
+                  },
+                  "value": {
+                    "fr": "12 V",
+                    "en": "12 V"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "120 L/h",
+                    "en": "120 L/h"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FP-E-24",
+              "name": {
+                "fr": "24 V / 180 L/h",
+                "en": "24 V / 180 L/h"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Tension",
+                    "en": "Voltage"
+                  },
+                  "value": {
+                    "fr": "24 V",
+                    "en": "24 V"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "180 L/h",
+                    "en": "180 L/h"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FP-E-24H",
+              "name": {
+                "fr": "24 V / 300 L/h",
+                "en": "24 V / 300 L/h"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Tension",
+                    "en": "Voltage"
+                  },
+                  "value": {
+                    "fr": "24 V",
+                    "en": "24 V"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "300 L/h",
+                    "en": "300 L/h"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "mechanical",
+          "name": {
+            "fr": "Mécanique",
+            "en": "Mechanical"
+          },
+          "description": {
+            "fr": "Entraînement moteur, corps fonte.",
+            "en": "Engine-driven, cast body."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FP-M-01",
+              "name": {
+                "fr": "Mécanique type 1",
+                "en": "Mechanical type 1"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Entraînement",
+                    "en": "Drive"
+                  },
+                  "value": {
+                    "fr": "Moteur",
+                    "en": "Engine"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Raccord",
+                    "en": "Port"
+                  },
+                  "value": {
+                    "fr": "M14 × 1,5",
+                    "en": "M14 × 1.5"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FP-M-02",
+              "name": {
+                "fr": "Mécanique type 2",
+                "en": "Mechanical type 2"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Entraînement",
+                    "en": "Drive"
+                  },
+                  "value": {
+                    "fr": "Moteur",
+                    "en": "Engine"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Raccord",
+                    "en": "Port"
+                  },
+                  "value": {
+                    "fr": "1/2 NPT",
+                    "en": "1/2 NPT"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuel-valves",
+      "category": "fuel",
+      "name": {
+        "fr": "Vannes de carburant",
+        "en": "Fuel valves"
+      },
+      "description": {
+        "fr": "Vannes et organes de régulation pour circuits de carburant et systèmes d’injection.",
+        "en": "Valves and control parts for fuel circuits and injection systems."
+      },
+      "details": {
+        "fr": "Vannes à bille laiton/acier, clapets et vannes d’arrêt pour lignes diesel, air et fluides techniques.",
+        "en": "Brass/steel ball valves, check valves, and shut-offs for diesel, air, and service fluids."
+      },
+      "applications": [
+        {
+          "fr": "Lignes d’alimentation diesel",
+          "en": "Diesel supply lines"
+        },
+        {
+          "fr": "Circuits d’atelier",
+          "en": "Workshop circuits"
+        },
+        {
+          "fr": "Isolation de cuves",
+          "en": "Tank isolation"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Régulation",
+          "en": "Control"
+        }
+      ],
+      "models": [
+        {
+          "id": "ball",
+          "name": {
+            "fr": "Vannes à bille",
+            "en": "Ball valves"
+          },
+          "description": {
+            "fr": "Laiton ou acier, femelle/femelle.",
+            "en": "Brass or steel, female/female."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FV-B-15",
+              "name": {
+                "fr": "Laiton 1/2\"",
+                "en": "Brass 1/2\""
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Matière",
+                    "en": "Material"
+                  },
+                  "value": {
+                    "fr": "Laiton",
+                    "en": "Brass"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "1/2\"",
+                    "en": "1/2\""
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FV-B-25",
+              "name": {
+                "fr": "Laiton 1\"",
+                "en": "Brass 1\""
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Matière",
+                    "en": "Material"
+                  },
+                  "value": {
+                    "fr": "Laiton",
+                    "en": "Brass"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "1\"",
+                    "en": "1\""
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FV-S-40",
+              "name": {
+                "fr": "Acier 1 1/2\"",
+                "en": "Steel 1 1/2\""
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Matière",
+                    "en": "Material"
+                  },
+                  "value": {
+                    "fr": "Acier",
+                    "en": "Steel"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "1 1/2\"",
+                    "en": "1 1/2\""
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "check",
+          "name": {
+            "fr": "Clapets anti-retour",
+            "en": "Check valves"
+          },
+          "description": {
+            "fr": "Ressort, montage en ligne.",
+            "en": "Spring type, in-line."
+          },
+          "variants": [
+            {
+              "sku": "NQA-FV-C-15",
+              "name": {
+                "fr": "Clapet 1/2\"",
+                "en": "Check 1/2\""
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Clapet",
+                    "en": "Check"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "1/2\"",
+                    "en": "1/2\""
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-FV-C-25",
+              "name": {
+                "fr": "Clapet 1\"",
+                "en": "Check 1\""
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Clapet",
+                    "en": "Check"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "Size"
+                  },
+                  "value": {
+                    "fr": "1\"",
+                    "en": "1\""
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "heui-pumps",
+      "category": "fuel",
+      "name": {
+        "fr": "Pompes HEUI",
+        "en": "HEUI pumps"
+      },
+      "description": {
+        "fr": "Pompes HEUI pour systèmes d’injection hydraulique-électronique sur moteurs diesel lourds.",
+        "en": "HEUI pumps for hydraulically actuated electronic injection on heavy diesel engines."
+      },
+      "details": {
+        "fr": "Pompes haute pression pour architectures HEUI. Échange standard après contrôle, avec joints de montage.",
+        "en": "High-pressure pumps for HEUI architectures. Standard exchange after inspection, with mounting seals."
+      },
+      "applications": [
+        {
+          "fr": "Moteurs diesel lourds HEUI",
+          "en": "Heavy diesel HEUI engines"
+        },
+        {
+          "fr": "Engins de terrassement",
+          "en": "Earthmoving equipment"
+        },
+        {
+          "fr": "Révision injecteurs associée",
+          "en": "Related injector overhaul"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "HEUI",
+          "en": "HEUI"
+        },
+        {
+          "fr": "Diesel lourd",
+          "en": "Heavy diesel"
+        }
+      ],
+      "models": [
+        {
+          "id": "std-heui",
+          "name": {
+            "fr": "Série standard",
+            "en": "Standard series"
+          },
+          "description": {
+            "fr": "Débits courants de parc.",
+            "en": "Common fleet displacements."
+          },
+          "variants": [
+            {
+              "sku": "NQA-HE-S-160",
+              "name": {
+                "fr": "HEUI 160",
+                "en": "HEUI 160"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Series"
+                  },
+                  "value": {
+                    "fr": "160",
+                    "en": "160"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Échange",
+                    "en": "Exchange"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-HE-S-210",
+              "name": {
+                "fr": "HEUI 210",
+                "en": "HEUI 210"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Series"
+                  },
+                  "value": {
+                    "fr": "210",
+                    "en": "210"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Échange",
+                    "en": "Exchange"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "hd-heui",
+          "name": {
+            "fr": "Série heavy duty",
+            "en": "Heavy-duty series"
+          },
+          "description": {
+            "fr": "Sur commande, contrôle banc.",
+            "en": "On request, bench-tested."
+          },
+          "variants": [
+            {
+              "sku": "NQA-HE-H-250",
+              "name": {
+                "fr": "HEUI 250 HD",
+                "en": "HEUI 250 HD"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Series"
+                  },
+                  "value": {
+                    "fr": "250 HD",
+                    "en": "250 HD"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Neuf",
+                    "en": "New"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            },
+            {
+              "sku": "NQA-HE-H-310",
+              "name": {
+                "fr": "HEUI 310 HD",
+                "en": "HEUI 310 HD"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Série",
+                    "en": "Series"
+                  },
+                  "value": {
+                    "fr": "310 HD",
+                    "en": "310 HD"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Neuf",
+                    "en": "New"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "priming-pumps",
+      "category": "fuel",
+      "name": {
+        "fr": "Pompes de gavage",
+        "en": "Priming pumps"
+      },
+      "description": {
+        "fr": "Pompes de gavage pour amorçage des circuits et maintenance des systèmes d’alimentation.",
+        "en": "Priming pumps for circuit start-up and fuel system maintenance."
+      },
+      "details": {
+        "fr": "Pompes manuelles à levier et électriques d’amorçage après filtre ou intervention injecteurs.",
+        "en": "Manual lever and electric priming pumps after filter changes or injector work."
+      },
+      "applications": [
+        {
+          "fr": "Amorçage après entretien",
+          "en": "Priming after service"
+        },
+        {
+          "fr": "Purge de circuit",
+          "en": "Circuit bleeding"
+        },
+        {
+          "fr": "Ateliers mobiles",
+          "en": "Mobile workshops"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Amorçage",
+          "en": "Priming"
+        }
+      ],
+      "models": [
+        {
+          "id": "manual",
+          "name": {
+            "fr": "Manuelle à levier",
+            "en": "Manual lever"
+          },
+          "description": {
+            "fr": "Corps aluminium, joints nitrile.",
+            "en": "Aluminium body, nitrile seals."
+          },
+          "variants": [
+            {
+              "sku": "NQA-PP-M-08",
+              "name": {
+                "fr": "Levier 8 mm",
+                "en": "Lever 8 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Manuel",
+                    "en": "Manual"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Raccord",
+                    "en": "Port"
+                  },
+                  "value": {
+                    "fr": "8 mm",
+                    "en": "8 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-PP-M-10",
+              "name": {
+                "fr": "Levier 10 mm",
+                "en": "Lever 10 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Manuel",
+                    "en": "Manual"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Raccord",
+                    "en": "Port"
+                  },
+                  "value": {
+                    "fr": "10 mm",
+                    "en": "10 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "electric-prime",
+          "name": {
+            "fr": "Électrique d’amorçage",
+            "en": "Electric priming"
+          },
+          "description": {
+            "fr": "24 V, usage intermittent.",
+            "en": "24 V, intermittent duty."
+          },
+          "variants": [
+            {
+              "sku": "NQA-PP-E-24",
+              "name": {
+                "fr": "Amorçage 24 V",
+                "en": "Priming 24 V"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Électrique",
+                    "en": "Electric"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Tension",
+                    "en": "Voltage"
+                  },
+                  "value": {
+                    "fr": "24 V",
+                    "en": "24 V"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "injectors",
+      "category": "mechanical",
+      "name": {
+        "fr": "Injecteurs",
+        "en": "Injectors"
+      },
+      "description": {
+        "fr": "Injecteurs et composants de précision pour moteurs industriels et équipements miniers.",
+        "en": "Injectors and precision components for industrial engines and mining equipment."
+      },
+      "details": {
+        "fr": "Injecteurs mécaniques et common rail, neufs ou échange. Identification par n° moteur ou échantillon.",
+        "en": "Mechanical and common-rail injectors, new or exchange. Identify by engine number or sample."
+      },
+      "applications": [
+        {
+          "fr": "Moteurs industriels diesel",
+          "en": "Industrial diesel engines"
+        },
+        {
+          "fr": "Groupes et pompes",
+          "en": "Gensets and pumps"
+        },
+        {
+          "fr": "Révision complète rampe",
+          "en": "Full rail overhaul"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Précision",
+          "en": "Precision"
+        }
+      ],
+      "models": [
+        {
+          "id": "mechanical-inj",
+          "name": {
+            "fr": "Mécanique",
+            "en": "Mechanical"
+          },
+          "description": {
+            "fr": "Porte-injecteur + buse.",
+            "en": "Nozzle holder + nozzle."
+          },
+          "variants": [
+            {
+              "sku": "NQA-IN-M-A",
+              "name": {
+                "fr": "Mécanique série A",
+                "en": "Mechanical series A"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Mécanique",
+                    "en": "Mechanical"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Pression",
+                    "en": "Pressure"
+                  },
+                  "value": {
+                    "fr": "250 bar",
+                    "en": "250 bar"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-IN-M-B",
+              "name": {
+                "fr": "Mécanique série B",
+                "en": "Mechanical series B"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Mécanique",
+                    "en": "Mechanical"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Pression",
+                    "en": "Pressure"
+                  },
+                  "value": {
+                    "fr": "280 bar",
+                    "en": "280 bar"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "common-rail",
+          "name": {
+            "fr": "Common rail",
+            "en": "Common rail"
+          },
+          "description": {
+            "fr": "Contrôle banc avant expédition.",
+            "en": "Bench-tested before dispatch."
+          },
+          "variants": [
+            {
+              "sku": "NQA-IN-CR-1",
+              "name": {
+                "fr": "CR type 1",
+                "en": "CR type 1"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Common rail",
+                    "en": "Common rail"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Échange",
+                    "en": "Exchange"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            },
+            {
+              "sku": "NQA-IN-CR-2",
+              "name": {
+                "fr": "CR type 2",
+                "en": "CR type 2"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Common rail",
+                    "en": "Common rail"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "État",
+                    "en": "Condition"
+                  },
+                  "value": {
+                    "fr": "Neuf",
+                    "en": "New"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nozzles",
+      "category": "mechanical",
+      "name": {
+        "fr": "Buses et buses d’injection",
+        "en": "Nozzles"
+      },
+      "description": {
+        "fr": "Buses et pièces d’injection pour un débit stable et un entretien simplifié des motorisations.",
+        "en": "Nozzles and injection parts for stable flow and simpler engine servicing."
+      },
+      "details": {
+        "fr": "Buses standard et multi-trous. Correspondance par cône, diamètre et nombre d’orifices.",
+        "en": "Standard and multi-hole nozzles. Match by cone, diameter, and orifice count."
+      },
+      "applications": [
+        {
+          "fr": "Remplacement de buses usées",
+          "en": "Worn nozzle replacement"
+        },
+        {
+          "fr": "Kits de révision injecteurs",
+          "en": "Injector overhaul kits"
+        },
+        {
+          "fr": "Ajustement de pulvérisation",
+          "en": "Spray pattern correction"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Injection",
+          "en": "Injection"
+        }
+      ],
+      "models": [
+        {
+          "id": "std-nozzle",
+          "name": {
+            "fr": "Buse standard",
+            "en": "Standard nozzle"
+          },
+          "description": {
+            "fr": "Un ou deux orifices.",
+            "en": "One or two orifices."
+          },
+          "variants": [
+            {
+              "sku": "NQA-NZ-S-1",
+              "name": {
+                "fr": "1 orifice",
+                "en": "1 orifice"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Orifices",
+                    "en": "Orifices"
+                  },
+                  "value": {
+                    "fr": "1",
+                    "en": "1"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Cône",
+                    "en": "Cone"
+                  },
+                  "value": {
+                    "fr": "S",
+                    "en": "S"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-NZ-S-2",
+              "name": {
+                "fr": "2 orifices",
+                "en": "2 orifices"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Orifices",
+                    "en": "Orifices"
+                  },
+                  "value": {
+                    "fr": "2",
+                    "en": "2"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Cône",
+                    "en": "Cone"
+                  },
+                  "value": {
+                    "fr": "S",
+                    "en": "S"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "multi-hole",
+          "name": {
+            "fr": "Multi-trous",
+            "en": "Multi-hole"
+          },
+          "description": {
+            "fr": "5 à 8 orifices, moteurs modernes.",
+            "en": "5 to 8 orifices, modern engines."
+          },
+          "variants": [
+            {
+              "sku": "NQA-NZ-M-5",
+              "name": {
+                "fr": "5 orifices",
+                "en": "5 orifices"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Orifices",
+                    "en": "Orifices"
+                  },
+                  "value": {
+                    "fr": "5",
+                    "en": "5"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Cône",
+                    "en": "Cone"
+                  },
+                  "value": {
+                    "fr": "P",
+                    "en": "P"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-NZ-M-8",
+              "name": {
+                "fr": "8 orifices",
+                "en": "8 orifices"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Orifices",
+                    "en": "Orifices"
+                  },
+                  "value": {
+                    "fr": "8",
+                    "en": "8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Cône",
+                    "en": "Cone"
+                  },
+                  "value": {
+                    "fr": "P",
+                    "en": "P"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valve-groups",
+      "category": "mechanical",
+      "name": {
+        "fr": "Groupes de vannes",
+        "en": "Valve groups"
+      },
+      "description": {
+        "fr": "Groupes de vannes et ensembles mécaniques pour circuits hydrauliques et carburant.",
+        "en": "Valve groups and mechanical assemblies for hydraulic and fuel circuits."
+      },
+      "details": {
+        "fr": "Blocs directionnels et manifolds de commande. Sections 1 à 4, leviers ou électrovannes.",
+        "en": "Directional blocks and control manifolds. 1 to 4 sections, levers or solenoids."
+      },
+      "applications": [
+        {
+          "fr": "Commande de vérins",
+          "en": "Cylinder control"
+        },
+        {
+          "fr": "Circuits auxiliaires d’engins",
+          "en": "Equipment auxiliary circuits"
+        },
+        {
+          "fr": "Bancs hydrauliques d’atelier",
+          "en": "Workshop hydraulic benches"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Ensembles mécaniques",
+          "en": "Mechanical assemblies"
+        }
+      ],
+      "models": [
+        {
+          "id": "directional",
+          "name": {
+            "fr": "Directionnel à leviers",
+            "en": "Lever directional"
+          },
+          "description": {
+            "fr": "1 à 3 sections, 80 L/min.",
+            "en": "1 to 3 sections, 80 L/min."
+          },
+          "variants": [
+            {
+              "sku": "NQA-VG-L-1",
+              "name": {
+                "fr": "1 section",
+                "en": "1 section"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Sections",
+                    "en": "Sections"
+                  },
+                  "value": {
+                    "fr": "1",
+                    "en": "1"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "80 L/min",
+                    "en": "80 L/min"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-VG-L-2",
+              "name": {
+                "fr": "2 sections",
+                "en": "2 sections"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Sections",
+                    "en": "Sections"
+                  },
+                  "value": {
+                    "fr": "2",
+                    "en": "2"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "80 L/min",
+                    "en": "80 L/min"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-VG-L-3",
+              "name": {
+                "fr": "3 sections",
+                "en": "3 sections"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Sections",
+                    "en": "Sections"
+                  },
+                  "value": {
+                    "fr": "3",
+                    "en": "3"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "80 L/min",
+                    "en": "80 L/min"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "solenoid",
+          "name": {
+            "fr": "Électrovanne 24 V",
+            "en": "24 V solenoid"
+          },
+          "description": {
+            "fr": "Commande électrique, 120 L/min.",
+            "en": "Electric control, 120 L/min."
+          },
+          "variants": [
+            {
+              "sku": "NQA-VG-E-2",
+              "name": {
+                "fr": "2 sections 24 V",
+                "en": "2 sections 24 V"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Sections",
+                    "en": "Sections"
+                  },
+                  "value": {
+                    "fr": "2",
+                    "en": "2"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Tension",
+                    "en": "Voltage"
+                  },
+                  "value": {
+                    "fr": "24 V",
+                    "en": "24 V"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Débit",
+                    "en": "Flow"
+                  },
+                  "value": {
+                    "fr": "120 L/min",
+                    "en": "120 L/min"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ht-bolts",
+      "category": "fasteners",
+      "name": {
+        "fr": "Boulons haute résistance",
+        "en": "High-tensile bolts"
+      },
+      "description": {
+        "fr": "Boulonnerie haute résistance pour assemblages structurels, chaudronnerie et équipements lourds.",
+        "en": "High-tensile fasteners for structural assemblies, boiler making, and heavy equipment."
+      },
+      "details": {
+        "fr": "Classe 8.8 zinguée et 10.9 brune. Filetages métriques ISO, têtes hexagonales. Vendu à l’unité, par boîte ou kg.",
+        "en": "Grade 8.8 zinc and 10.9 black. ISO metric threads, hex heads. Sold each, boxed, or by kg."
+      },
+      "applications": [
+        {
+          "fr": "Assemblages de charpente",
+          "en": "Structural assemblies"
+        },
+        {
+          "fr": "Chaudronnerie lourde",
+          "en": "Heavy boiler making"
+        },
+        {
+          "fr": "Maintenance d’engins",
+          "en": "Equipment maintenance"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Haute résistance",
+          "en": "High tensile"
+        }
+      ],
+      "models": [
+        {
+          "id": "g88",
+          "name": {
+            "fr": "Classe 8.8 zingué",
+            "en": "Grade 8.8 zinc"
+          },
+          "description": {
+            "fr": "Usage général structurel.",
+            "en": "General structural use."
+          },
+          "variants": [
+            {
+              "sku": "NQA-BT-88-M12-40",
+              "name": {
+                "fr": "M12 × 40",
+                "en": "M12 × 40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "8.8",
+                    "en": "8.8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M12",
+                    "en": "M12"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "40 mm",
+                    "en": "40 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-BT-88-M16-60",
+              "name": {
+                "fr": "M16 × 60",
+                "en": "M16 × 60"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "8.8",
+                    "en": "8.8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "60 mm",
+                    "en": "60 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-BT-88-M20-80",
+              "name": {
+                "fr": "M20 × 80",
+                "en": "M20 × 80"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "8.8",
+                    "en": "8.8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "80 mm",
+                    "en": "80 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "g109",
+          "name": {
+            "fr": "Classe 10.9 brunie",
+            "en": "Grade 10.9 black"
+          },
+          "description": {
+            "fr": "Charges élevées, engins et presses.",
+            "en": "High loads, equipment and presses."
+          },
+          "variants": [
+            {
+              "sku": "NQA-BT-109-M16-70",
+              "name": {
+                "fr": "M16 × 70",
+                "en": "M16 × 70"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "10.9",
+                    "en": "10.9"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "70 mm",
+                    "en": "70 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-BT-109-M20-90",
+              "name": {
+                "fr": "M20 × 90",
+                "en": "M20 × 90"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "10.9",
+                    "en": "10.9"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "90 mm",
+                    "en": "90 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-BT-109-M24-110",
+              "name": {
+                "fr": "M24 × 110",
+                "en": "M24 × 110"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "10.9",
+                    "en": "10.9"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M24",
+                    "en": "M24"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "110 mm",
+                    "en": "110 mm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nuts-washers",
+      "category": "fasteners",
+      "name": {
+        "fr": "Écrous et rondelles",
+        "en": "Nuts and washers"
+      },
+      "description": {
+        "fr": "Écrous, rondelles et accessoires de fixation en stock standard pour maintenance quotidienne.",
+        "en": "Nuts, washers, and fastening accessories in standard stock for daily maintenance."
+      },
+      "details": {
+        "fr": "Écrous hexagonaux 8 et 10, rondelles plates et Grower. Conditionnement sachet, boîte ou vrac.",
+        "en": "Hex nuts grade 8 and 10, flat and spring washers. Packed in bags, boxes, or bulk."
+      },
+      "applications": [
+        {
+          "fr": "Complément de boulonnerie",
+          "en": "Bolt kits"
+        },
+        {
+          "fr": "Maintenance quotidienne",
+          "en": "Daily maintenance"
+        },
+        {
+          "fr": "Assemblages d’atelier",
+          "en": "Workshop assemblies"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Stock standard",
+          "en": "Standard stock"
+        }
+      ],
+      "models": [
+        {
+          "id": "hex-nuts",
+          "name": {
+            "fr": "Écrous hexagonaux",
+            "en": "Hex nuts"
+          },
+          "description": {
+            "fr": "Classe 8 et 10, zingué.",
+            "en": "Grade 8 and 10, zinc."
+          },
+          "variants": [
+            {
+              "sku": "NQA-NT-8-M12",
+              "name": {
+                "fr": "Écrou 8 M12",
+                "en": "Nut 8 M12"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Écrou",
+                    "en": "Nut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "8",
+                    "en": "8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M12",
+                    "en": "M12"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-NT-8-M16",
+              "name": {
+                "fr": "Écrou 8 M16",
+                "en": "Nut 8 M16"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Écrou",
+                    "en": "Nut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "8",
+                    "en": "8"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-NT-10-M20",
+              "name": {
+                "fr": "Écrou 10 M20",
+                "en": "Nut 10 M20"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Écrou",
+                    "en": "Nut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Classe",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "10",
+                    "en": "10"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "washers",
+          "name": {
+            "fr": "Rondelles",
+            "en": "Washers"
+          },
+          "description": {
+            "fr": "Plates et Grower.",
+            "en": "Flat and spring."
+          },
+          "variants": [
+            {
+              "sku": "NQA-WA-F-M16",
+              "name": {
+                "fr": "Plate M16",
+                "en": "Flat M16"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Plate",
+                    "en": "Flat"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-WA-S-M16",
+              "name": {
+                "fr": "Grower M16",
+                "en": "Spring M16"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Grower",
+                    "en": "Spring"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-WA-F-M20",
+              "name": {
+                "fr": "Plate M20",
+                "en": "Flat M20"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Plate",
+                    "en": "Flat"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "track-plow-bolts",
+      "category": "fasteners",
+      "name": {
+        "fr": "Boulons de chenille et plow bolts",
+        "en": "Track bolts and plow bolts"
+      },
+      "description": {
+        "fr": "Boulons de chenille, plow bolts et goujons pour engins de terrassement et matériel minier.",
+        "en": "Track bolts, plow bolts, and studs for earthmoving and mining machinery."
+      },
+      "details": {
+        "fr": "Têtes fraisées et collet carré pour godets, lames et trains de roulement. Nuances haute résistance.",
+        "en": "Countersunk heads and square necks for buckets, blades, and undercarriage. High-strength grades."
+      },
+      "applications": [
+        {
+          "fr": "Trains de roulement",
+          "en": "Undercarriage"
+        },
+        {
+          "fr": "Lames et godets",
+          "en": "Blades and buckets"
+        },
+        {
+          "fr": "Pièces d’usure vissées",
+          "en": "Bolted wear parts"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Chenille",
+          "en": "Track"
+        },
+        {
+          "fr": "Goujons",
+          "en": "Studs"
+        }
+      ],
+      "models": [
+        {
+          "id": "track",
+          "name": {
+            "fr": "Boulons de chenille",
+            "en": "Track bolts"
+          },
+          "description": {
+            "fr": "Collet + écrou frein.",
+            "en": "Collar + lock nut."
+          },
+          "variants": [
+            {
+              "sku": "NQA-TR-M16-45",
+              "name": {
+                "fr": "Chenille M16 × 45",
+                "en": "Track M16 × 45"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Chenille",
+                    "en": "Track"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "45 mm",
+                    "en": "45 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-TR-M20-55",
+              "name": {
+                "fr": "Chenille M20 × 55",
+                "en": "Track M20 × 55"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Chenille",
+                    "en": "Track"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "55 mm",
+                    "en": "55 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "plow",
+          "name": {
+            "fr": "Plow bolts",
+            "en": "Plow bolts"
+          },
+          "description": {
+            "fr": "Tête fraisée, collet carré.",
+            "en": "Countersunk head, square neck."
+          },
+          "variants": [
+            {
+              "sku": "NQA-PB-M16-50",
+              "name": {
+                "fr": "Plow M16 × 50",
+                "en": "Plow M16 × 50"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Plow",
+                    "en": "Plow"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "50 mm",
+                    "en": "50 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-PB-M20-60",
+              "name": {
+                "fr": "Plow M20 × 60",
+                "en": "Plow M20 × 60"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Plow",
+                    "en": "Plow"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M20",
+                    "en": "M20"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "60 mm",
+                    "en": "60 mm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "studs",
+          "name": {
+            "fr": "Goujons",
+            "en": "Studs"
+          },
+          "description": {
+            "fr": "Double filet, acier 10.9.",
+            "en": "Double-end, grade 10.9."
+          },
+          "variants": [
+            {
+              "sku": "NQA-ST-M16-80",
+              "name": {
+                "fr": "Goujon M16 × 80",
+                "en": "Stud M16 × 80"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Goujon",
+                    "en": "Stud"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M16",
+                    "en": "M16"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Longueur",
+                    "en": "Length"
+                  },
+                  "value": {
+                    "fr": "80 mm",
+                    "en": "80 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "welding-electrodes",
+      "category": "consumables",
+      "name": {
+        "fr": "Électrodes de soudage",
+        "en": "Welding electrodes"
+      },
+      "description": {
+        "fr": "Électrodes et consommables de soudage pour ateliers de chaudronnerie et maintenance sur site.",
+        "en": "Welding electrodes and consumables for boiler shops and on-site maintenance."
+      },
+      "details": {
+        "fr": "Électrodes rutiles E6013, basiques E7018 et inox 308L. Conditionnement 5 kg et 20 kg, stockage sec.",
+        "en": "Rutile E6013, basic E7018, and stainless 308L electrodes. 5 kg and 20 kg packs, dry storage."
+      },
+      "applications": [
+        {
+          "fr": "Chaudronnerie acier doux",
+          "en": "Mild steel boiler work"
+        },
+        {
+          "fr": "Réparation sur site mine",
+          "en": "On-site mine repair"
+        },
+        {
+          "fr": "Assemblages inox",
+          "en": "Stainless assemblies"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Chaudronnerie",
+          "en": "Boiler making"
+        }
+      ],
+      "models": [
+        {
+          "id": "e6013",
+          "name": {
+            "fr": "E6013 rutile",
+            "en": "E6013 rutile"
+          },
+          "description": {
+            "fr": "Soudage général, amorçage facile.",
+            "en": "General welding, easy strike."
+          },
+          "variants": [
+            {
+              "sku": "NQA-WE-6013-25",
+              "name": {
+                "fr": "Ø 2,5 mm / 5 kg",
+                "en": "Ø 2.5 mm / 5 kg"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "2,5 mm",
+                    "en": "2.5 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Colis",
+                    "en": "Pack"
+                  },
+                  "value": {
+                    "fr": "5 kg",
+                    "en": "5 kg"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-WE-6013-32",
+              "name": {
+                "fr": "Ø 3,2 mm / 5 kg",
+                "en": "Ø 3.2 mm / 5 kg"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "3,2 mm",
+                    "en": "3.2 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Colis",
+                    "en": "Pack"
+                  },
+                  "value": {
+                    "fr": "5 kg",
+                    "en": "5 kg"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-WE-6013-40",
+              "name": {
+                "fr": "Ø 4,0 mm / 20 kg",
+                "en": "Ø 4.0 mm / 20 kg"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "4,0 mm",
+                    "en": "4.0 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Colis",
+                    "en": "Pack"
+                  },
+                  "value": {
+                    "fr": "20 kg",
+                    "en": "20 kg"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "e7018",
+          "name": {
+            "fr": "E7018 basique",
+            "en": "E7018 basic"
+          },
+          "description": {
+            "fr": "Haute résistance, à étuver.",
+            "en": "High strength, requires drying."
+          },
+          "variants": [
+            {
+              "sku": "NQA-WE-7018-32",
+              "name": {
+                "fr": "Ø 3,2 mm / 5 kg",
+                "en": "Ø 3.2 mm / 5 kg"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "3,2 mm",
+                    "en": "3.2 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Colis",
+                    "en": "Pack"
+                  },
+                  "value": {
+                    "fr": "5 kg",
+                    "en": "5 kg"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-WE-7018-40",
+              "name": {
+                "fr": "Ø 4,0 mm / 20 kg",
+                "en": "Ø 4.0 mm / 20 kg"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "4,0 mm",
+                    "en": "4.0 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Colis",
+                    "en": "Pack"
+                  },
+                  "value": {
+                    "fr": "20 kg",
+                    "en": "20 kg"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "ss308",
+          "name": {
+            "fr": "Inox 308L",
+            "en": "Stainless 308L"
+          },
+          "description": {
+            "fr": "Assemblages 304.",
+            "en": "304 assemblies."
+          },
+          "variants": [
+            {
+              "sku": "NQA-WE-308-25",
+              "name": {
+                "fr": "308L Ø 2,5 mm",
+                "en": "308L Ø 2.5 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "308L",
+                    "en": "308L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "2,5 mm",
+                    "en": "2.5 mm"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grinding-discs",
+      "category": "consumables",
+      "name": {
+        "fr": "Disques de meulage",
+        "en": "Grinding discs"
+      },
+      "description": {
+        "fr": "Disques de meulage et de coupe pour acier, inox et travaux d’atelier intensifs.",
+        "en": "Grinding and cutting discs for steel, stainless, and intensive workshop work."
+      },
+      "details": {
+        "fr": "Disques plats de coupe et dépression de meulage, Ø 115 à 230 mm, acier ou inox.",
+        "en": "Flat cutting and depressed-centre grinding discs, Ø 115 to 230 mm, steel or stainless."
+      },
+      "applications": [
+        {
+          "fr": "Coupe de profilés et tôles",
+          "en": "Cutting profiles and plate"
+        },
+        {
+          "fr": "Meulage de cordons",
+          "en": "Weld grinding"
+        },
+        {
+          "fr": "Travaux inox",
+          "en": "Stainless work"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Acier / inox",
+          "en": "Steel / stainless"
+        }
+      ],
+      "models": [
+        {
+          "id": "cut-steel",
+          "name": {
+            "fr": "Coupe acier",
+            "en": "Steel cutting"
+          },
+          "description": {
+            "fr": "Disques plats 1,0–3,0 mm.",
+            "en": "Flat discs 1.0–3.0 mm."
+          },
+          "variants": [
+            {
+              "sku": "NQA-GD-C-115",
+              "name": {
+                "fr": "Ø 115 × 1,6 mm",
+                "en": "Ø 115 × 1.6 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Coupe acier",
+                    "en": "Steel cut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "115 mm",
+                    "en": "115 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Thickness"
+                  },
+                  "value": {
+                    "fr": "1,6 mm",
+                    "en": "1.6 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GD-C-125",
+              "name": {
+                "fr": "Ø 125 × 1,6 mm",
+                "en": "Ø 125 × 1.6 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Coupe acier",
+                    "en": "Steel cut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "125 mm",
+                    "en": "125 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Thickness"
+                  },
+                  "value": {
+                    "fr": "1,6 mm",
+                    "en": "1.6 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GD-C-230",
+              "name": {
+                "fr": "Ø 230 × 3,0 mm",
+                "en": "Ø 230 × 3.0 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Coupe acier",
+                    "en": "Steel cut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "230 mm",
+                    "en": "230 mm"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Épaisseur",
+                    "en": "Thickness"
+                  },
+                  "value": {
+                    "fr": "3,0 mm",
+                    "en": "3.0 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "grind",
+          "name": {
+            "fr": "Meulage",
+            "en": "Grinding"
+          },
+          "description": {
+            "fr": "Dépression, grain 24–36.",
+            "en": "Depressed centre, grit 24–36."
+          },
+          "variants": [
+            {
+              "sku": "NQA-GD-G-115",
+              "name": {
+                "fr": "Ø 115 × 6 mm",
+                "en": "Ø 115 × 6 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Meulage",
+                    "en": "Grinding"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "115 mm",
+                    "en": "115 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-GD-G-180",
+              "name": {
+                "fr": "Ø 180 × 6 mm",
+                "en": "Ø 180 × 6 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Meulage",
+                    "en": "Grinding"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "180 mm",
+                    "en": "180 mm"
+                  }
+                }
+              ],
+              "stock": "limited"
+            }
+          ]
+        },
+        {
+          "id": "inox-cut",
+          "name": {
+            "fr": "Coupe inox",
+            "en": "Stainless cutting"
+          },
+          "description": {
+            "fr": "Sans fer, pour 304 / 316L.",
+            "en": "Iron-free, for 304 / 316L."
+          },
+          "variants": [
+            {
+              "sku": "NQA-GD-I-125",
+              "name": {
+                "fr": "Inox Ø 125 × 1,0 mm",
+                "en": "Stainless Ø 125 × 1.0 mm"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Usage",
+                    "en": "Use"
+                  },
+                  "value": {
+                    "fr": "Coupe inox",
+                    "en": "Stainless cut"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "125 mm",
+                    "en": "125 mm"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stainless-hardware",
+      "category": "consumables",
+      "name": {
+        "fr": "Articles en acier inoxydable",
+        "en": "Stainless steel hardware"
+      },
+      "description": {
+        "fr": "Pièces et accessoires inox pour environnements corrosifs et assemblages durables.",
+        "en": "Stainless parts and accessories for corrosive environments and durable assemblies."
+      },
+      "details": {
+        "fr": "Boulonnerie 304, raccords et brides 316L. Stock des diamètres courants, autres sur commande Dar es Salaam / Lubumbashi.",
+        "en": "304 fasteners, 316L fittings and flanges. Common diameters in stock, others on order from Dar es Salaam / Lubumbashi."
+      },
+      "applications": [
+        {
+          "fr": "Circuits corrosifs et chimie",
+          "en": "Corrosive and chemical lines"
+        },
+        {
+          "fr": "Assemblages alimentaires / process",
+          "en": "Process assemblies"
+        },
+        {
+          "fr": "Fixations extérieures mine",
+          "en": "Outdoor mine fasteners"
+        }
+      ],
+      "specs": [
+        {
+          "fr": "Inox",
+          "en": "Stainless"
+        }
+      ],
+      "models": [
+        {
+          "id": "ss-fasteners",
+          "name": {
+            "fr": "Boulonnerie 304",
+            "en": "304 fasteners"
+          },
+          "description": {
+            "fr": "Boulons, écrous, rondelles A2.",
+            "en": "A2 bolts, nuts, washers."
+          },
+          "variants": [
+            {
+              "sku": "NQA-SS-B-M10",
+              "name": {
+                "fr": "Boulon A2 M10 × 40",
+                "en": "A2 bolt M10 × 40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "A2 / 304",
+                    "en": "A2 / 304"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M10",
+                    "en": "M10"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-SS-B-M12",
+              "name": {
+                "fr": "Boulon A2 M12 × 50",
+                "en": "A2 bolt M12 × 50"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "A2 / 304",
+                    "en": "A2 / 304"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Diamètre",
+                    "en": "Diameter"
+                  },
+                  "value": {
+                    "fr": "M12",
+                    "en": "M12"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-SS-N-M12",
+              "name": {
+                "fr": "Écrou A2 M12",
+                "en": "A2 nut M12"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "A2 / 304",
+                    "en": "A2 / 304"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Écrou",
+                    "en": "Nut"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            }
+          ]
+        },
+        {
+          "id": "ss-fittings",
+          "name": {
+            "fr": "Raccords 316L",
+            "en": "316L fittings"
+          },
+          "description": {
+            "fr": "Coudes, tés, unions SCH40.",
+            "en": "Elbows, tees, unions SCH40."
+          },
+          "variants": [
+            {
+              "sku": "NQA-SS-EL-DN25",
+              "name": {
+                "fr": "Coude 90° DN25",
+                "en": "90° elbow DN25"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "316L",
+                    "en": "316L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "25",
+                    "en": "25"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Coude 90°",
+                    "en": "90° elbow"
+                  }
+                }
+              ],
+              "stock": "in_stock"
+            },
+            {
+              "sku": "NQA-SS-TE-DN40",
+              "name": {
+                "fr": "Té égal DN40",
+                "en": "Equal tee DN40"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "316L",
+                    "en": "316L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "40",
+                    "en": "40"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Té",
+                    "en": "Tee"
+                  }
+                }
+              ],
+              "stock": "limited"
+            },
+            {
+              "sku": "NQA-SS-FL-DN50",
+              "name": {
+                "fr": "Bride plate DN50",
+                "en": "Plate flange DN50"
+              },
+              "attributes": [
+                {
+                  "label": {
+                    "fr": "Nuance",
+                    "en": "Grade"
+                  },
+                  "value": {
+                    "fr": "316L",
+                    "en": "316L"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "DN",
+                    "en": "DN"
+                  },
+                  "value": {
+                    "fr": "50",
+                    "en": "50"
+                  }
+                },
+                {
+                  "label": {
+                    "fr": "Type",
+                    "en": "Type"
+                  },
+                  "value": {
+                    "fr": "Bride",
+                    "en": "Flange"
+                  }
+                }
+              ],
+              "stock": "on_request"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

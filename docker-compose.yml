@@ -1,0 +1,33 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: nqa
+      POSTGRES_USER: nqa
+      POSTGRES_PASSWORD: nqa
+    ports:
+      - "5432:5432"
+    volumes:
+      - nqa_pgdata:/var/lib/postgresql/data
+
+  api:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    environment:
+      DATABASE_URL: postgres
+      DATABASE_NAME: nqa
+      DATABASE_USER: nqa
+      DATABASE_PASSWORD: nqa
+      DATABASE_HOST: db
+      DATABASE_PORT: "5432"
+      DJANGO_DEBUG: "1"
+      PAYMENTS_PROVIDER: stub
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+
+volumes:
+  nqa_pgdata:
