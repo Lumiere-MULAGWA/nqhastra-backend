@@ -1,0 +1,6 @@
+# Évite de gonfler le contexte de build
+.git/
+__pycache__/
+*.pyc
+staticfiles/
+media/

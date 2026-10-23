@@ -30,7 +30,14 @@ SECRET_KEY = os.environ.get(
 DEBUG = os.environ.get('DJANGO_DEBUG', '1') == '1'
 
 
-ALLOWED_HOSTS = []
+# Hôtes autorisés. En production, via l'environnement :
+#   DJANGO_ALLOWED_HOSTS="mondomaine.com,IP-du-VPS"   (sans schéma http://)
+# En dev (liste vide), Django autorise automatiquement localhost/127.0.0.1.
+ALLOWED_HOSTS = [
+    h.strip()
+    for h in os.environ.get('DJANGO_ALLOWED_HOSTS', '').split(',')
+    if h.strip()
+]
 
 
 # Application definition
@@ -150,6 +157,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = 'static/'
+# Dossier de collecte pour la production (collectstatic sur le volume partagé avec nginx).
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+# Fichiers média : images produit uploadées via l'admin (ImageField upload_to='products/').
+# Nécessaire aussi en dev pour que urls.py serve les images en local.
+MEDIA_URL = 'media/'
+MEDIA_ROOT = BASE_DIR / 'media'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
@@ -179,6 +193,13 @@ SIMPLE_JWT = {
 # ---------------------------------------------------------------------------
 
 FRONTEND_URL = os.environ.get('FRONTEND_URL', 'http://localhost:3000')
+
+# Derrière le reverse-proxy nginx : TLS terminé sur nginx, requêtes en HTTP
+# sur le réseau interne entre les conteneurs.
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# Origines autorisées pour les POST (admin Django) derrière le proxy.
+CSRF_TRUSTED_ORIGINS = [FRONTEND_URL]
 PAYMENTS_PROVIDER = os.environ.get('PAYMENTS_PROVIDER', 'stub')
 PAYMENTS_CURRENCY = os.environ.get('PAYMENTS_CURRENCY', 'USD')
 
