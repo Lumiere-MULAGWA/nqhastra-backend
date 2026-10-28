@@ -77,6 +77,9 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://127.0.0.1:3000',
 ]
+# Le domaine réellement servi s'ajoute via FRONTEND_URL (voir .env de prod).
+if os.environ.get('FRONTEND_URL'):
+    CORS_ALLOWED_ORIGINS.append(os.environ['FRONTEND_URL'])
 
 ROOT_URLCONF = 'nqa_backend.urls'
 
