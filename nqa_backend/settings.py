@@ -101,21 +101,23 @@ WSGI_APPLICATION = 'nqa_backend.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+# PostgreSQL par défaut. Les identifiants correspondent au service `db`
+# de docker-compose.yml (nqa/nqa/nqa sur localhost:5432). Pour forcer SQLite
+# en local : export DATABASE_URL=sqlite
+if os.environ.get('DATABASE_URL') == 'sqlite':
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
     }
-}
-
-# Bascule PostgreSQL par variables d'environnement (docker-compose) :
-if os.environ.get('DATABASE_URL'):
+else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql',
             'NAME': os.environ.get('DATABASE_NAME', 'nqa'),
             'USER': os.environ.get('DATABASE_USER', 'nqa'),
-            'PASSWORD': os.environ.get('DATABASE_PASSWORD', ''),
+            'PASSWORD': os.environ.get('DATABASE_PASSWORD', 'nqa'),
             'HOST': os.environ.get('DATABASE_HOST', 'localhost'),
             'PORT': os.environ.get('DATABASE_PORT', '5432'),
         }
