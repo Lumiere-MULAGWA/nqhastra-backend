@@ -59,13 +59,13 @@ class RolePermissionsTests(APITestCase):
         """Sans le flag is_staff, le Django Admin est fermé pour le commercial."""
         django_client = Client()
         django_client.force_login(self.sales)
-        response = django_client.get('/admin/')
-        self.assertRedirects(response, '/admin/login/?next=/admin/')
+        response = django_client.get('/django-admin/')
+        self.assertRedirects(response, '/django-admin/login/?next=/django-admin/')
 
     def test_admin_reaches_django_admin(self):
         django_client = Client()
         django_client.force_login(self.admin)
-        self.assertEqual(django_client.get('/admin/').status_code, 200)
+        self.assertEqual(django_client.get('/django-admin/').status_code, 200)
 
     def test_anonymous_gets_no_orders(self):
         """Anonyme : la liste est filtrée → vide, sans crash."""

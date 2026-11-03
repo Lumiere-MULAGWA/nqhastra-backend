@@ -1,4 +1,8 @@
-"""URL racine du backend NQA : /api/v1/ pour l'API, /admin/ pour le backoffice."""
+"""URL racine du backend NQA : /api/v1/ pour l'API, /django-admin/ pour l'admin Django.
+
+Le back-office métier (Next.js) occupe /admin/ côté frontend : l'admin Django
+est donc exposé sous /django-admin/ pour éviter le conflit de routage en prod.
+"""
 from django.conf import settings
 from django.contrib import admin
 from django.conf.urls.static import static
@@ -9,11 +13,11 @@ from .views import api_root
 
 
 def home(request):
-    """/ → réponse JSON orientant vers /api/v1/ et /admin/."""
+    """/ → réponse JSON orientant vers /api/v1/ et /django-admin/."""
     return JsonResponse({
         'detail': 'Backend New Quin Astra — API Django.',
         'api': request.build_absolute_uri('/api/v1/'),
-        'admin': request.build_absolute_uri('/admin/'),
+        'admin': request.build_absolute_uri('/django-admin/'),
     })
 
 
@@ -40,7 +44,7 @@ def health(request):
 
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path('django-admin/', admin.site.urls),
     path('health', health, name='health'),
     path('api/v1/', include(api_v1)),
     # / d'abord : aucune trace de catch-all média pour la racine

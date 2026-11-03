@@ -22,6 +22,6 @@ def api_root(request, format=None):
                 'token': request.build_absolute_uri('/api/v1/auth/token/'),
                 'me': request.build_absolute_uri('/api/v1/auth/me/'),
             },
-            'admin': request.build_absolute_uri('/admin/'),
+            'admin': request.build_absolute_uri('/django-admin/'),
         },
     })

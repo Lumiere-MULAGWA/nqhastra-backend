@@ -11,7 +11,7 @@ source venv/bin/activate        # ou : python -m venv venv && pip install -r req
 python manage.py runserver      # API : http://localhost:8000
 ```
 
-Backoffice admin : http://localhost:8000/admin/ (démo : `admin@nqa.cd` / `admin12345`)
+Backoffice admin : http://localhost:8000/django-admin/ (démo : `admin@nqa.cd` / `admin12345`)
 
 Import complet du catalogue (20 produits, 44 modèles, 102 SKU) :
 
